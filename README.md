@@ -1,4 +1,4 @@
-1. Project Overview
+**1. Project Overview**
 The Kalvium Task - Co-Viewer for PDF Slides project is a dynamic PDF viewer application built to facilitate document viewing and collaboration. This project is ideal for applications where multiple users might need to view the same PDF in sync, such as in educational settings, remote presentations, or document reviews. Key features include page navigation, thumbnail previews for easy access to pages, zoom controls, and real-time synchronization of page changes using WebSockets.
 
 2. Tech Stack Used
